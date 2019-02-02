@@ -1,0 +1,14 @@
+1. git init- 								Create empty Git repo in specified directory
+2. git add <directory>- 					add the file to start tracking file
+3. git clone <Reponame> 					clone the git repository
+4. git commit file name -m "message"- 		commit the file to push to local repository
+5. git status- 								List which files are staged, unstaged, and untracked
+6. git log- 								display entire commit history
+git log -<limit> 							limit to number of commits
+7. git diff- 								check the changes in tracked files
+git branch									list out all the branches
+8. git branch <new-branch> - 				create a new branch
+git checkout-b <branch>						create & checkout new branch
+9. git rebase -i <base> 					rebase current branch onto the base branch
+git merge <branch>							merge two branches
+
